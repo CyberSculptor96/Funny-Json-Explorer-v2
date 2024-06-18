@@ -1,0 +1,5 @@
+com\fje\FunnyJsonExplorer.class
+com\fje\Icon\Icon.class
+com\fje\composite\Leaf.class
+com\fje\composite\Component.class
+com\fje\composite\Container.class

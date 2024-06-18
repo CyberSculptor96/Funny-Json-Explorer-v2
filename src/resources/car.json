@@ -1,0 +1,28 @@
+{
+    "vehicles": {
+        "cars": {
+            "sedan": {
+                "Toyota Camry": "reliable and efficient",
+                "Honda Accord": null
+            },
+            "SUV": {
+                "Ford Explorer": "spacious and powerful",
+                "Chevrolet Tahoe": null
+            }
+        },
+        "bikes": {
+            "mountain bike": {
+                "Trek": "great for off-road",
+                "Giant": null
+            },
+            "road bike": null
+        }
+    },
+    "trucks": {
+        "pickup": {
+            "Ford F-150": "tough and durable",
+            "Ram 1500": null
+        },
+        "heavy-duty": null
+    }
+}
